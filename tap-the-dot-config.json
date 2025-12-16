@@ -1,13 +1,5 @@
 {
     "version": "1.0.0",
     "announcements": [
-        {
-            "id": "welcome-v1",
-            "type": "info",
-            "title": "Welcome to Tap The Dot!",
-            "message": "Test your reflexes and aim for the highest score. Good luck!",
-            "dismissable": true,
-            "priority": 1
-        }
     ]
 }
