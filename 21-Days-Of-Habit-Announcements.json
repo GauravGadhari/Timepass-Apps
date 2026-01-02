@@ -9,7 +9,7 @@
       "priority": 1,
       "startDate": "2026-01-01T00:00:00Z",
       "dismissible": true,
-      "showOnce": false,
+      "showOnce": true,
       "targetAudience": "all",
       "acceptText": "Got it!",
       "dismissText": "Later"
