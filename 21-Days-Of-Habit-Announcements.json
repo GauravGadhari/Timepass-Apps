@@ -1,19 +1,6 @@
 {
   "announcements": [
-    {
-      "id": "welcome-v2",
-      "type": "feature",
-      "title": "Welcome to 21 Days Of Habit!",
-      "message": "Thanks for downloading...",
-      "summary": "Welcome message",
-      "priority": 1,
-      "startDate": "2026-01-01T00:00:00Z",
-      "dismissible": true,
-      "showOnce": true,
-      "targetAudience": "all",
-      "acceptText": "Got it!",
-      "dismissText": "Later"
-    }
+    
   ],
   "lastUpdated": "2026-01-03T00:00:00Z",
   "schemaVersion": 1
